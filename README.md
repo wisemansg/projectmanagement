@@ -1,7 +1,7 @@
 # Sales Dashboard — Power BI
 
 ## 📊 Overview
-This dashboard visualizes sales performance across regions, products, and time periods. It helps identify top products, revenue trends, and target variances.
+This dashboard visualizes sales performance across multiple dimensions such as regions, products, and time periods. It provides insights into revenue trends, KPIs, and product performance.
 
 ## 🛠 Tools Used
 - Power BI
@@ -10,18 +10,30 @@ This dashboard visualizes sales performance across regions, products, and time p
 - DAX Measures
 
 ## 🚀 Features
-- KPI cards (Revenue, Profit, Units Sold)
-- Interactive slicers
-- Trend line visualizations
-- Region and product drill-down
+- Interactive slicers (Region, Category, Product)
+- KPI cards for Revenue, Profit, and Units Sold
+- Trend line charts
+- Drill-down functionality
 
 ## 🔗 Live Dashboard
-Link: https://app.powerbi.com/view?r=xxxx
+View Dashboard: https://app.powerbi.com/view?r=YOUR_LINK_HERE
 
-## 📁 Files Included
+## 📁 Project Files Included
 - `sales_dashboard.pbix` — Power BI file
-- `sales_data.csv` — Source data
+- `sales_data.csv` — Raw dataset
 - `data_cleaning.ipynb` — Python preprocessing
+- `README.md` — Documentation (this file)
 
-## 👤 Author
-Wiseman Siriro
+## 📸 Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](assets/screenshots/dashboard_overview.png)
+
+### KPI Section
+![KPI Section](assets/screenshots/kpi_section.png)
+
+### Filters & Slicers
+![Filters & Slicers](assets/screenshots/filters_slicers.png)
+
+## 📦 Repository Structure
+
