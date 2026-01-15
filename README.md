@@ -70,7 +70,7 @@ Revenue accelerated post-2021, driven by e-commerce expansion:
 - YoY growth peaked at **14% in 2022**
 
 #### Visualization
-![Revenue Trend](assets/screenshots/revenue_trend.png)
+![PHS.png)
 
 ---
 
@@ -83,7 +83,7 @@ Product category analysis revealed:
 - **Grocery** delivered volume but limited profit contribution due to slim margins.  
 
 #### Visualization
-![Category Comparison](assets/screenshots/category_comparison.png)
+![Category Comparison](PHS.png)
 
 ---
 
@@ -96,7 +96,7 @@ Regional analysis showed:
 - **Europe** experienced margin pressure due to logistics and cost inflation  
 
 #### Visualization
-![Regional Performance Map](assets/screenshots/regional_map.png)
+![Regional Performance Map](PHS.png)
 
 ---
 
@@ -109,7 +109,7 @@ Customer segmentation revealed evolving purchasing behaviors:
 - **Online-only shoppers** preferred higher-margin products compared to in-store buyers  
 
 #### Visualization
-![Customer Segments](assets/screenshots/customer_segments.png)
+![Customer Segments](PHS.png)
 
 ---
 
